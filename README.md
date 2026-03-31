@@ -9,7 +9,7 @@
 🔗 One-click navigation to all worksheets  
 🔙 Smart **Back to Contents** button on every sheet  
 ⚡ Fully automated using VBA macros  
-📌 Clean, user-friendly design  
+📌 Clean, user-friendly design
 
 ---
 
