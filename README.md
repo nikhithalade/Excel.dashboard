@@ -4,6 +4,16 @@
 
 ---
 
+## 📸 Screenshots
+
+### 📊 Dashboard View
+![Dashboard](Dashboard.png)
+
+### 🔗 Contents Page
+![Contents](Contents.png)
+
+---
+
 ## 🌟 Key Highlights
 ✨ Auto-generates a **Contents Page**  
 🔗 One-click navigation to all worksheets  
