@@ -7,7 +7,7 @@
 ## 📸 Screenshots
 
 ### 📊 Dashboard View
-![Dashboard](Dashboard.png)
+![Dashboard View](Dashboard.png)
 
 ### 🔗 Contents Page
 ![Contents](Contents.png)
