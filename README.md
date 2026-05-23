@@ -26,13 +26,11 @@ An interactive Excel dashboard analyzing 50,000+ Amazon sales transactions to un
 - Home & Kitchen achieves the highest average profit (₹33.14) across all categories
 - Wallet payment method generates the highest max revenue (₹2,499.55)
 - All regions hold nearly equal quantity share (~25%), showing balanced global distribution.
-  
 ✨ Auto-generates a **Contents Page**  
 🔗 One-click navigation to all worksheets  
 🔙 Smart **Back to Contents** button on every sheet  
 ⚡ Fully automated using VBA macros  
 📌 Clean, user-friendly design
-
 ---
 
 ### 🛠 Features
