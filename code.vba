@@ -59,7 +59,7 @@ Sub SmartContentsManager()
 
             With btn
                 .Name = "BackButton"
-                .TextFrame.Characters.Text = "? Back to Contents"
+                .TextFrame.Characters.Text = "Back to Contents"
                 .OnAction = "GoToContents"
                 .Fill.ForeColor.RGB = RGB(0, 102, 204)
                 .TextFrame.Characters.Font.Color = RGB(255, 255, 255)
