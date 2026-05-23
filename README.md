@@ -25,7 +25,7 @@ An interactive Excel dashboard analyzing 50,000+ Amazon sales transactions to un
 - Profit drops sharply with higher discounts — 30% discount yields ₹2.17L vs ₹3.09L at 5%
 - Home & Kitchen achieves the highest average profit (₹33.14) across all categories
 - Wallet payment method generates the highest max revenue (₹2,499.55)
-- All regions hold nearly equal quantity share (~25%), showing balanced global distribution
+- All regions hold nearly equal quantity share (~25%), showing balanced global distribution.
 ✨ Auto-generates a **Contents Page**  
 🔗 One-click navigation to all worksheets  
 🔙 Smart **Back to Contents** button on every sheet  
